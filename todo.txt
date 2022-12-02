@@ -1,0 +1,5 @@
+Current Todos:
+
+ - read filename as argument
+ - use read_file as input 
+ - rewrite functions to use strings
